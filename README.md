@@ -1,6 +1,6 @@
 # Audio Player Controller
 
-Description: Provide a brief overview of the audio player controller, its purpose, and its features. It's written in C++ using Eclipse CDT environment.
+Description: A brief overview of the audio player controller, its purpose, and its features. It's written in C++ using Eclipse CDT environment.
 
 Table of Contents:
 
