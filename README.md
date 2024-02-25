@@ -60,9 +60,11 @@ List of the main features of the audio player controller.
 # Dependencies
  Dependencies that users need to install before using the audio player controller.
 
-    PortAudio API
-    IO Warrior Kit
-
+    PortAudio API - http://files.portaudio.com/docs/v19-doxydocs/
+    IO Warrior API - https://lernen.h-da.de/pluginfile.php/558454/mod_book/chapter/4647/IowKit_V15_API.pdf
+	SKSlib API - https://sks-asdd.h-da.io/skslib
+	libsndfile API - http://mega-nerd.com/libsndfile/api.html
+	pthread API- https://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread.h.html
 
 # Contributing
 Feel free to contribute by submitting bug reports or proposing new features. Fork the repository, make your changes, and create a pull request.
