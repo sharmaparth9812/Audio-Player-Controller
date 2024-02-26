@@ -21,7 +21,7 @@ Describing the steps to install and set up the audio player controller.
 
 
 # Usage
-Explanation on how to use the audio player controller. I have included relevant code snippets to demonstrate basic functionalities.
+Explanation on how to use the audio player controller. After successfully importing the project in Eclipse, open main.cpp, build that and run it on the Eclipse environment. I have included relevant code snippets to demonstrate basic functionalities.
 
 
  // Required header files
