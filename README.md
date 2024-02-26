@@ -12,12 +12,7 @@ Table of Contents:
 
 
 # Installation
-Describing the steps to install and set up the audio player controller.
-
-
-    git clone https://github.com/sharmaparth9812/Audio-Player-Controller.git
-    cd Audio-Player-Controller
-    make
+Install Eclipse CDT. By making a new project in Eclipse and moving all the .h,.cpp, sound, and filter files in the project directory. Build and run the project.
 
 
 # Usage
